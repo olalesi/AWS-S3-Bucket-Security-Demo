@@ -72,9 +72,14 @@ These changes significantly tightened security and followed the principle of lea
 ![My Image](6.png)
 
 📈 What I Learned
+
 🔸 Misconfigurations are real threats — Even small mistakes can expose sensitive data
+
  🔸 Least privilege is essential — Only give access that’s absolutely necessary
+ 
  🔸 Logging matters — Monitoring and traceability help you detect and investigate issues
+ 
 💡 Final Thoughts
+
 This small project was a big eye-opener. It helped me understand not just how to set up AWS services, but how to secure them like a cloud professional. Seeing firsthand how a misconfigured S3 bucket can leak data — and then remediating it — gave me real confidence in cloud security fundamentals.
 
