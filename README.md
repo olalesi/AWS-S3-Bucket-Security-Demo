@@ -1,4 +1,5 @@
-🔐 How I Simulated and Secured an Insecure AWS S3 Bucket as a Cloud Security Beginner
+**🔐 How I Simulated and Secured an Insecure AWS S3 Bucket as a Cloud Security Beginner**
+
 **🧩 Introduction**
 Getting into cloud security can feel overwhelming at first, but one of the best ways I’ve found to learn is through hands-on experience. Recently, I worked on a hands-on project using AWS that helped me understand how simple misconfigurations in S3 buckets and IAM policies can lead to serious security risks.
  This is my beginner-friendly breakdown of what I built, what went wrong (on purpose), and how I fixed it using AWS security best practices.
